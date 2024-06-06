@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **PYTHON,JAVA,HTML,CSS**
 
-- Things I Like **🛜 , 🔋**
 
-- 🧠 **![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx3bXR0ZXF1cWljZ2prejhnOXFmN2Via3U4azc0bTc2Zmp1Zml4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)**
+
+-  **![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx3bXR0ZXF1cWljZ2prejhnOXFmN2Via3U4azc0bTc2Zmp1Zml4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)**
 
 - ⚡ Fun fact **I THINK IAM FUNNY**
 
