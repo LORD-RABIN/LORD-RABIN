@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20230
+Fork on GitHub
+6150
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm LORD_RABIN 👑👤</h1>
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
 
@@ -8,6 +24,8 @@
 - 🌱 I’m currently learning **PYTHON,JAVA,HTML,CSS**
 
 - Things I Like **🛜 , 🔋**
+
+- 🧠 **![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx3bXR0ZXF1cWljZ2prejhnOXFmN2Via3U4azc0bTc2Zmp1Zml4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)**
 
 - ⚡ Fun fact **I THINK IAM FUNNY**
 
@@ -21,3 +39,28 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lord-rabin&show_icons=true&locale=en&layout=compact" alt="lord-rabin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-rabin&show_icons=true&locale=en" alt="lord-rabin" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
