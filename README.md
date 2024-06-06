@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm LORD_RABIN 👑👤</h1>
-<h3 align="center">A passionate  developer from NEPAL</h3>
+<h3 align="center">A passionate  developer from NEPAL ꔪ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-rabin&label=Profile%20views&color=0e75b6&style=flat" alt="lord-rabin" /> </p>
 
