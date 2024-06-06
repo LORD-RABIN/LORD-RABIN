@@ -12,7 +12,7 @@
 
 
 
--  **![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx3bXR0ZXF1cWljZ2prejhnOXFmN2Via3U4azc0bTc2Zmp1Zml4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)**
+-  *![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx3bXR0ZXF1cWljZ2prejhnOXFmN2Via3U4azc0bTc2Zmp1Zml4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)**
 
 - ⚡ Fun fact **I THINK IAM FUNNY**
 
@@ -27,5 +27,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lord-rabin&show_icons=true&locale=en" alt="lord-rabin" /></p>
 
+<h1 align="center"> THINGS I LIKE </h1>
+<h2 align="Center"> 🛜 📶 🌐</h2>
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc245YWhxcHA3MDAwdmUzaWc3M25kNnlwZjdnbTlqand6dzN4Z2xsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MaXOUjkV73aO4/giphy.gif)
+<h2 align="Center"> ♻️💡⚡🔋</h2>
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdiam9mOTZ6YXg4dTF4YzdsbWNyNDB6bXdndDRwYTZ5OTZzcTk5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdeSslU80bVsTtWxEh/giphy.gif)
+<h2 align="Center"> ♫ 𝄞⨾𓍢ִ໋ 🎧ྀི </h2>
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHprYzJjNnphMDljb3Rta2dncDdibjVuMnlnc2Y5ZWRnbml5bWJqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif)
+
+
+
+
+
+                                            
 
 
